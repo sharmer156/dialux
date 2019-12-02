@@ -3,6 +3,8 @@ The something of dialux
 
 基于DIALux交流基地（群号8280791）的常见软件使用问题所设置的分享项目
 课程地址 https://dialux.ke.qq.com/ 
+- **[软件下载](### 软件下载)**
+- **[厂家插件下载](### /plugin/README.md)**
 
 ## dialux是什么？
 https://www.dial.de 官网
